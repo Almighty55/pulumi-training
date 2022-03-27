@@ -1,0 +1,6 @@
+encryptionsalt: 
+config:
+  okta:apiToken:
+    secure: 
+  okta:baseUrl: oktapreview.com
+  okta:orgName: Company

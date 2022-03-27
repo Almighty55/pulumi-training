@@ -1,0 +1,6 @@
+name: Dev
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description:  AWS managed by pulumi

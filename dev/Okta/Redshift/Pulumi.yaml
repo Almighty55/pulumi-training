@@ -1,0 +1,6 @@
+name: Okta_Project
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Okta Management by Pulumi
